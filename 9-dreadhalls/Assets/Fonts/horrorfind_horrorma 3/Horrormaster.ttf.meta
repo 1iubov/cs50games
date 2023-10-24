@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 40dd47e6c075942ef813333e9b1ff9ee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Horrormaster
+  fontNames:
+  - Horrormaster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97a7cc923b7ae452193494ee2fd8629f, type: 3}
+  - {fileID: 12800000, guid: 8a6f70fc4c60b49c2a5bc933782ef773, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

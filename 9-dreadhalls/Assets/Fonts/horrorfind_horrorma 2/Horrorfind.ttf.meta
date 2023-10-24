@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 466a9922f3c244334a0bef16c3460fff
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Horrorfind
+  fontNames:
+  - Horrorfind
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d08f2eaca2750400ea8afb078ade0f83, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
